@@ -1,1 +1,1 @@
-hexo.rentsztang.ddns-ip.net
+blog.rentsztang.ddns-ip.net
